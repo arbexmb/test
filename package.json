@@ -1,0 +1,24 @@
+{
+  "name": "gh-action-teste",
+  "version": "1.0.0",
+  "description": "Test Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbexmb/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbexmb/test/issues"
+  },
+  "homepage": "https://github.com/arbexmb/test#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}

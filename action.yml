@@ -1,0 +1,11 @@
+name: 'Github Actions Teste'
+description: 'Ok'
+inputs: 
+  input-teste:
+    description: 'Olá'
+outputs:
+  output-teste:
+    description: 'Tchau'
+runs:
+  using: 'node16'
+  main: 'index.js'
